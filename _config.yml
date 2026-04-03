@@ -1,0 +1,8 @@
+# Site Configuration for GitHub Pages
+
+# Setting theme for the site
+theme: minima
+
+# Enabling some features
+plugins:
+  - jekyll-feed
